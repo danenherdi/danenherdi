@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danendra+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Serverless+%26+Kubernetes+Enthusiast;Research+%40+Universitas+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danen+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Serverless+%26+Kubernetes+Enthusiast;Research+%40+Universitas+Indonesia" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danenherdi&theme=tokyonight" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danenherdi&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danenherdi&theme=tokyonight" height="180" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danenherdi&theme=tokyonight" height="180" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danenherdi&theme=tokyonight&utcOffset=8" height="180" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danenherdi&theme=github_dark" height="180" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danenherdi&theme=github_dark" height="180" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danenherdi&theme=github_dark&utcOffset=8" height="180" alt="Productive Time" />
 </div>
 
 ---
@@ -62,17 +62,6 @@
 ![Bangkit](https://img.shields.io/badge/Bangkit_Academy_2024-Cloud_Computing_Graduate-CE1126?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Dicoding](https://img.shields.io/badge/Dicoding-Cloud_%26_Backend_Developer-1B2A6B?style=for-the-badge&logo=dicoding&logoColor=white)
 ![Google Skills](https://img.shields.io/badge/Google_Cloud_Skills-💎_Diamond_League-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=FFD700)
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [faas-provider](https://github.com/danenherdi/faas-provider) | Adaptive caching provider for OpenFaaS — up to **94% latency reduction** | Go, Kubernetes |
-| [faas-gateway](https://github.com/danenherdi/faas-gateway) | Modified API Gateway with intelligent workflow routing | Go |
-| [FaasFlows-Demo](https://github.com/danenherdi/FaasFlows-Demo-Config) | Serverless Workflow DAG on OpenFaaS — **69% response time improvement** | OpenFaaS, K8s |
-| [IsyaratKu Backend](https://github.com/IsyaratKu/isyaratku-backend) | Sign language learning app backend — Bangkit 2024 Capstone | Node.js, GCP |
 
 ---
 
